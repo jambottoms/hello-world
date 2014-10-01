@@ -1,6 +1,6 @@
 hello-world
 ===========
 
-this is a test repository
+Hello, Earhtlings. 
 
-WITH LOTS OF STUFF
+I am Zorch, ruler of all that is the color purple. Such as lillies, TUMS, and RetailMeNot. 
